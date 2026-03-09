@@ -1,6 +1,6 @@
 # NullOrNaN
 
-Platform / Infrastructure engineer.
+Platform / Infrastructure Engineer.
 
 Interested in reliability, automation, developer experience, and building systems that help engineers move faster without treating infrastructure like magic.
 
@@ -19,10 +19,10 @@ HTTP/1.1 418 I'm a teapot
 reason: coffee requested from incompatible device
 ```
 ## Focus areas
-- Platform engineering
-- Infrastructure & reliability
+- Platform Engineering
+- Infrastructure & Reliability
 - Automation
-- Homelab / self-hosting
+- Homelab / Self-hosting
 
 ```bash
 $ ./null --caffeinated
