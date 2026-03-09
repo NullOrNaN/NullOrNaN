@@ -1,16 +1,50 @@
-## Hi there 👋
+# NullOrNaN
 
-<!--
-**NullOrNaN/NullOrNaN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Platform / Infrastructure engineer.
 
-Here are some ideas to get you started:
+Interested in reliability, automation, developer experience, and building systems that help engineers move faster without treating infrastructure like magic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a nerd powered by either too much or too little coffee.
+
+```bash
+$ cat ./nan.log
+alias: NullOrNaN
+status: DEGRADED
+reason: coffee dependency unavailable
+mitigation: brew more
+```
+```http
+$ curl https://lethal.coffee
+HTTP/1.1 418 I'm a teapot
+reason: coffee requested from incompatible device
+```
+## Focus areas
+- Platform engineering
+- Infrastructure & reliability
+- Automation
+- Homelab / self-hosting
+
+```bash
+$ ./null --caffeinated
+loading linux platform knowledge...
+initializing platform engineer...
+loading reliability modules...
+coffee level: critical
+SEGFAULT
+```
+
+## Future
+
+Just a seasoned engineer looking to player-coach and help mentor other engineers.
+
+```bash
+$ sudo coffee upgrade --repair
+checking dependencies...
+coffee >= 1.0 found
+installing caffeine modules...
+upgrading skills...
+restarting platform engineer...
+
+upgrade finished
+status: operational
+```
