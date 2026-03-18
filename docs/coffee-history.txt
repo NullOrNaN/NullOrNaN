@@ -1,0 +1,104 @@
+COFFEE-HISTORY(7)                NullOrNaN Manual               COFFEE-HISTORY(7)
+
+NAME
+       coffee-history - historical experiments in infrastructure,
+       tooling, and community systems
+
+SYNOPSIS
+       man coffee-history
+
+DESCRIPTION
+       The coffee-history manual page documents a collection of side
+       projects and experiments developed by NullOrNaN while exploring
+       infrastructure engineering, automation, and community tooling.
+
+       These projects were often developed in collaboration with other
+       engineers and served as practical laboratories for experimenting
+       with architecture, operational workflows, and infrastructure
+       design.
+
+PROJECTS
+
+       LoungeMC
+              Org filled with collaborative projects with Darkefae 
+              exploring chat tooling for community game servers. 
+              Development focused on ideas around moderation systems, 
+              chat architecture, and plugin-based integrations.
+
+              The repository remains available as a reference for the
+              design and experimentation conducted during development.
+
+       UploadX
+              Community file upload system originally maintained for
+              game server infrastructure. The project focused on safe
+              file distribution and automated management of uploaded
+              assets within community environments.
+
+       drawio-network
+              Personal repository containing infrastructure diagrams
+              and network topology experiments created using draw.io.
+
+              These diagrams were used to explore rack layouts, network
+              architecture, and high-bandwidth infrastructure planning.
+
+       Cloudflare DDNS for UniFi (fork)
+              Experimental fork exploring automation for dynamically
+              updating DNS records using Cloudflare Workers and UniFi
+              network devices.
+
+              The project demonstrates practical experimentation with
+              serverless infrastructure and DNS automation.
+
+NOTES
+       Many of these projects originated as curiosity-driven
+       experiments and were developed alongside professional
+       infrastructure work.
+
+       They remain available as references for architecture ideas,
+       operational experiments, and collaborative engineering efforts.
+
+BUGS
+    Coffee consumption increases with incident severity. Engineers
+       are advised to remain within the productive portion of the
+       Ballmer Peak curve. Exceeding the optimal threshold may lead to
+       spontaneous infrastructure redesign.
+
+       Attempts to debug infrastructure before the first cup of coffee
+       may result in false conclusions, misconfigured DNS records, or
+       unnecessary service restarts.
+
+       Some experiments documented here may remain permanently in the
+       "interesting idea" phase.
+
+       Certain diagrams in drawio-network may reflect late-night
+       architectural optimism rather than production reality.
+
+       DNS issues may persist even when they are clearly not DNS.
+
+       Collaboration with other engineers may result in new ideas,
+       additional complexity, or spontaneous side projects.
+
+       Prolonged exposure to infrastructure tooling may cause the
+       author to redesign home networks unnecessarily.
+
+       Some solutions documented here were discovered after first
+       attempting to fix the problem the wrong way.
+
+       Debugging success rate is inversely proportional to the number
+       of people watching the terminal.
+
+       Incident timelines reconstructed from memory may be subject
+       to caffeine-related inaccuracies.
+
+       Wait... where is my coffee?
+
+       The phrase "this should be simple" has historically preceded
+       several multi-hour debugging sessions.
+
+AUTHOR
+       NullOrNaN
+
+SEE ALSO
+       man sysadmin(7), man caffeine(1), man dns(8), man coffee(1)
+
+NullOrNaN                         2026                        COFFEE-HISTORY(7)
