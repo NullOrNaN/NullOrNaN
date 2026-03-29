@@ -1,4 +1,4 @@
-# NullOrNaN
+# NullOrNaN / Lethal Coffee / Matt M
 
 Platform / Infrastructure Engineer
 
