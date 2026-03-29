@@ -18,6 +18,19 @@ $ curl https://lethal.coffee
 HTTP/1.1 418 I'm a teapot
 reason: coffee requested from incompatible device
 ```
+
+## Interesting projects I was or am involved in:
+### Author / Maintainer:
+- [CastleGuard - A RBAC using permission nodes for MC](https://github.com/LoungeMC/CastleGuard)
+- [Azurioum Status Page - A status page started at Minecraft Servers using the Azuriom CMS](https://github.com/LoungeMC/azuriom-statuspage)
+
+## Primary Contributor / Maintainer
+- ShadowNode's Website - A Markdown + custom code templated site using Hugo](https://github.com/ShadowNode/shadownode.github.io)
+- [NovaBungeAnnouncer - A Plugin designed for a Minecraft Proxy](http://github.com/NullOrNaN/NovaBungeeAnnouncer)
+
+## Contributor
+- [GitWatch - An automated git commiter to keep directories commited for any changes](https://github.com/gitwatch/gitwatch/pull/6)
+
 ## Focus areas
 - Platform Engineering
 - Infrastructure Reliability
