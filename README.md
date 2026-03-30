@@ -21,6 +21,7 @@ reason: coffee requested from incompatible device
 
 ## Interesting projects I was or am involved in:
 ### Author / Maintainer:
+- [IT / Infra / Ops Concepts and Guides](https://github.com/NullOrNaN/Docs-and-Concepts)
 - [CastleGuard - A RBAC using permission nodes for MC](https://github.com/LoungeMC/CastleGuard)
 - [Azurioum Status Page - A status page started at Minecraft Servers using the Azuriom CMS](https://github.com/LoungeMC/azuriom-statuspage)
 
