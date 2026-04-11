@@ -26,7 +26,7 @@ reason: coffee requested from incompatible device
 - [Azurioum Status Page - A status page started at Minecraft Servers using the Azuriom CMS](https://github.com/LoungeMC/azuriom-statuspage)
 
 ## Primary Contributor / Maintainer
-- ShadowNode's Website - A Markdown + custom code templated site using Hugo](https://github.com/ShadowNode/shadownode.github.io)
+- [ShadowNode's Website - A Markdown + custom code templated site using Hugo](https://github.com/ShadowNode/shadownode.github.io)
 - [NovaBungeAnnouncer - A Plugin designed for a Minecraft Proxy](http://github.com/NullOrNaN/NovaBungeeAnnouncer)
 
 ## Contributor
