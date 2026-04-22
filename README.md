@@ -1,10 +1,10 @@
 # NullOrNaN / Lethal Coffee / Matt M
 
-Platform / Infrastructure Engineer
+Platform & Infrastructure Engineering Leader.
+Building and operating reliable infrastructure platforms at scale.
 
-Building and operating reliable infrastructure platforms for engineers and production systems.
-
-Interested in reliability, automation, developer experience, and building systems that help engineers move faster without treating infrastructure like magic.
+Interested in reliability, automation, and developer experience—building systems that help engineering teams move faster without sacrificing reliability or treating infrastructure like magic.
+Experience owning and scaling infrastructure platforms across distributed environments, leading incident response, and aligning engineering, security, and operations to deliver reliable systems at scale.
 
 ```bash
 $ cat ./nan.log
@@ -35,33 +35,12 @@ reason: coffee requested from incompatible device
 ## Focus areas
 - Platform Engineering
 - Infrastructure Reliability
-- Automation & Tooling
+- Automation & Tooling 
 - Homelab / Self-hosting
-
-```bash
-$ ./null --caffeinated
-loading linux platform knowledge...
-initializing platform engineer...
-loading reliability modules...
-coffee level: critical
-SEGFAULT
-```
 
 ## Future
 
-Just a seasoned engineer looking to player-coach and help mentor other engineers.
-
-```bash
-$ sudo coffee upgrade --repair
-checking dependencies...
-coffee >= 1.0 found
-installing caffeine modules...
-upgrading skills...
-restarting platform engineer...
-
-upgrade finished
-status: operational
-```
+Focused on platform leadership, scaling systems and teams, and operating as a player-coach where it drives the most impact.
 
 ## Experiments & Past Projects
 
