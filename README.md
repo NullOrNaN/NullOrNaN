@@ -1,10 +1,12 @@
-# NullOrNaN / Lethal Coffee / Matt M
+# Matt McGowan
 
 Platform & Infrastructure Engineering Leader.
 Building and operating reliable infrastructure platforms at scale.
 
 Interested in reliability, automation, and developer experience—building systems that help engineering teams move faster without sacrificing reliability or treating infrastructure like magic.
 Experience owning and scaling infrastructure platforms across distributed environments, leading incident response, and aligning engineering, security, and operations to deliver reliable systems at scale.
+
+## Runtime diagnostics
 
 ```bash
 $ cat ./nan.log
@@ -19,18 +21,21 @@ HTTP/1.1 418 I'm a teapot
 reason: coffee requested from incompatible device
 ```
 
-## Interesting projects I was or am involved in:
-### Author / Maintainer:
-- [IT / Infra / Ops Concepts and Guides](https://github.com/NullOrNaN/Docs-and-Concepts)
-- [CastleGuard - A RBAC using permission nodes for MC](https://github.com/LoungeMC/CastleGuard)
-- [Azurioum Status Page - A status page started at Minecraft Servers using the Azuriom CMS](https://github.com/LoungeMC/azuriom-statuspage)
+## Selected projects
 
-## Primary Contributor / Maintainer
-- [ShadowNode's Website - A Markdown + custom code templated site using Hugo](https://github.com/ShadowNode/shadownode.github.io)
-- [NovaBungeAnnouncer - A Plugin designed for a Minecraft Proxy](http://github.com/NullOrNaN/NovaBungeeAnnouncer)
+### Platforms & Infrastructure
+- [Doghouse Cafe](https://doghouse.cafe) — Community platform focused on real-world infrastructure stories, production issues, and operational learning
+- [IT / Infra / Ops Concepts and Guides](https://github.com/NullOrNaN/Docs-and-Concepts) — Practical documentation covering infrastructure, reliability, and operational patterns
 
-## Contributor
-- [GitWatch - An automated git commiter to keep directories commited for any changes](https://github.com/gitwatch/gitwatch/pull/6)
+### Automation & Tooling
+- [GitWatch](https://github.com/gitwatch/gitwatch/pull/6) — Contribution to automated Git commit tooling for tracking filesystem changes and maintaining state
+
+### Systems & Applications
+- [CastleGuard](https://github.com/LoungeMC/CastleGuard) — Role-based access control system using permission nodes for server environments
+- [Azuriom Status Page](https://github.com/LoungeMC/azuriom-statuspage) — Status page system for service visibility and uptime communication, built on the Azuriom CMS
+
+### Additional Work
+- [ShadowNode Website](https://github.com/ShadowNode/shadownode.github.io) — Markdown-driven site with custom templating using Hugo
 
 ## Focus areas
 - Platform Engineering
