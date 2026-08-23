@@ -2,27 +2,21 @@
 
 ## Matt McGowan
 
-**Co-Founder, CTO & COO — [OUR+R Technologies](https://getourr.net)**
-
-Building a multi-vertical SaaS platform for the gig economy and HR tech space — ATS, CRM,
-job board, and rideshare — designed from the ground up for operators, recruiters, and workers
-who can't afford to wait on a fundraising timeline.
-
-> Pre-seed · Platform architecture · Kubernetes · Distributed systems · Hiring
+**Co-Founder, CTO & COO @ [OUR+R Technologies](https://getourr.net)**, **CTO @ [NullorNaN Systems](https://nullornan.com)**
 
 ---
 
 ### What I'm building
 
-**[OUR+R Technologies](https://getourr.net)** — Hub-and-spoke monorepo transitioning to discrete
-service repos on DOKS. Supabase-backed auth consolidated at the hub API layer. Stripe
-infrastructure built on Setup Intents. ATS vertical shipped ahead of schedule.
+**[OUR+R Technologies](https://getourr.net)** 
+ SaaS platform for the gig economy and HR tech space - evaluating rideshare, ATS, CRM, and possibly a job board. All designed from the ground up for operators, recruiters, and workers who can't afford to wait on a fundraising timeline.
+> Pre-seed · Platform architecture · Kubernetes · Distributed systems
+ 
+**[NullorNaN Systems](https://nullornan.com)**
+Boutique fractional platform engineering consultancy.
 
-**[NullorNaN Systems LLC](https://nullornan.com)** — Boutique fractional platform engineering
-consultancy. Scarcity model, rotating client slots. Not currently accepting new engagements.
-
-**[Reliability Lounge](https://github.com/Reliability-Lounge)** — Practitioner community for
-infrastructure and SRE engineers. Real-world war stories, not vendor content.
+**[Reliability Lounge](https://github.com/Reliability-Lounge)** 
+Practitioner community for infrastructure and SRE engineers. Real-world war stories, not vendor content.
 
 ---
 
@@ -89,7 +83,7 @@ Linux/RHEL environments, Azure hybrid integration, VMware, federal contracting (
 large-scale fleet operations across 70+ global sites. Achieved 900% infrastructure scaling in 90
 days and 35–40% YoY spend reduction at scale.
 
-DoD-cleared. IEI framework: **Investigate → Evaluate → Implement**.
+DoD vetted. IEI framework: **Investigate → Evaluate → Implement**.
 Infrastructure is a product.
 
 ---
@@ -106,5 +100,3 @@ Minecraft plugins, game servers, and late-night experiments live. Every system h
 ---
 
 > *"Reliability is not a feature. It's the foundation everything else is built on."*
-
-**[getourr.net](https://getourr.net) · [mattmcg.com](https://mattmcg.com) · [m@mattmcg.com](mailto:m@mattmcg.com)**
