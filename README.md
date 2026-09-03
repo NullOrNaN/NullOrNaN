@@ -2,7 +2,7 @@
 
 ## Matt McGowan
 
-**Co-Founder, CTO & COO @ [OUR+R Technologies](https://getourr.net)**, **CTO @ [NullorNaN Systems](https://nullornan.com)**
+**Co-Founder, CTO & COO @ [OUR+R Technologies](https://getourr.net)**, **Founder, CTO @ [NullorNaN Systems](https://nullornan.com)**
 
 ---
 
